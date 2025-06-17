@@ -1,4 +1,4 @@
-# Simple Theme Malware Scanner
+#Fetch Theme Malware Scanner
 
 A lightweight WordPress plugin that scans your active theme’s PHP files for suspicious or potentially malicious code patterns. It detects usage of risky PHP functions such as `eval()`, `base64_decode()`, `shell_exec()`, and others commonly found in malware.
 
